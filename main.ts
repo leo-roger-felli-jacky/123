@@ -538,7 +538,9 @@ scene.setBackgroundImage(img`
     fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffbffffdfffcddcfffffffffffffffff
     fffffffffffffffffffffffffffffffffbffffffbffffffffffffffffffffffbfcffffcfffffffffffffffcffffffffffffffffffffffffffffffffffffffffffffffffffffdddffffffffffccffffff
     `)
-let mySprite2 = 自訂文字.顯示文字("EASY", 1, 10)
-mySprite2.setPosition(77, 40)
-let EASY = 自訂文字.顯示文字("Hello", 1, 10)
-EASY.setVelocity(50, 50)
+let EASY = 自訂文字.顯示文字("EASY", 1, 10)
+EASY.setPosition(77, 46)
+let medium = 自訂文字.顯示文字("medium", 1, 10)
+medium.setPosition(78, 60)
+let Difficulty = 自訂文字.顯示文字("Difficulty", 1, 10)
+Difficulty.setPosition(80, 76)
