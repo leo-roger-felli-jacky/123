@@ -1,5 +1,5 @@
 {
-    "name": "love - 複製 - 複製",
+    "name": "ASDASD",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -13,7 +13,8 @@
         "sprite-scaling": "*",
         "multiplayer": "*",
         "edge-connector": "*",
-        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
     },
     "files": [
         "main.blocks",
@@ -31,7 +32,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.26",
+        "target": "1.12.29",
         "targetId": "arcade"
     },
     "supportedTargets": [
